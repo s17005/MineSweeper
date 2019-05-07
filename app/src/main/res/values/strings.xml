@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="reset">RESET</string>
+    <string name="o">O</string>
+    <string name="empty"> </string>
+    <string name="bomb">*</string>
+</resources>
